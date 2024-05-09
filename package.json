@@ -1,6 +1,6 @@
 {
   "name": "currency_converter-bymuhammaddaniyal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Program Which allows The User To Enter The Currency & Convert Into Any Currency In THe Given Options",
   "main": "main.js",
   "type": "module",
