@@ -1,0 +1,16 @@
+{
+  "name": "currency_converter-bymuhammaddaniyal",
+  "version": "1.0.0",
+  "description": "A Program Which allows The User To Enter The Currency & Convert Into Any Currency In THe Given Options",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
